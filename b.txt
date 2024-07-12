@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 메르세데스
+=======
+guminsung
+>>>>>>> master
